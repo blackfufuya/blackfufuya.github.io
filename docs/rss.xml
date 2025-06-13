@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>FuKaLuoSi's blog</title><link>https://blackfufuya.github.io</link><description>用于笔记</description><copyright>FuKaLuoSi's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/blackfufuya/blackfufuya.github.io/raw/main/AvSqemNDhwVGmO2.svg</url><title>avatar</title><link>https://blackfufuya.github.io</link></image><lastBuildDate>Sat, 31 May 2025 16:09:18 +0000</lastBuildDate><managingEditor>FuKaLuoSi's blog</managingEditor><ttl>60</ttl><webMaster>FuKaLuoSi's blog</webMaster><item><title>L10-3</title><link>https://blackfufuya.github.io/post/L10-3.html</link><description># 二维列表遍历
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>FuKaLuoSi's blog</title><link>https://blackfufuya.github.io</link><description>用于笔记</description><copyright>FuKaLuoSi's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/blackfufuya/blackfufuya.github.io/raw/main/AvSqemNDhwVGmO2.svg</url><title>avatar</title><link>https://blackfufuya.github.io</link></image><lastBuildDate>Fri, 13 Jun 2025 13:15:47 +0000</lastBuildDate><managingEditor>FuKaLuoSi's blog</managingEditor><ttl>60</ttl><webMaster>FuKaLuoSi's blog</webMaster><item><title>L11-1</title><link>https://blackfufuya.github.io/post/L11-1.html</link><description># 函数
+
+## word
+
+- define:定义
+- return:返回
+- attack:攻击
+- pay:支付
+
+## 认识函数
+
+在python中，像这样事先写好的，由def开头，具
+有一定功能的代码段，就是函数。</description><guid isPermaLink="true">https://blackfufuya.github.io/post/L11-1.html</guid><pubDate>Fri, 13 Jun 2025 13:15:19 +0000</pubDate></item><item><title>L10-3</title><link>https://blackfufuya.github.io/post/L10-3.html</link><description># 二维列表遍历
 
 [TOC]
 
