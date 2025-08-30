@@ -1,5 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>FuKaLuoSi's blog</title><link>https://blackfufuya.github.io</link><description>用于笔记</description><copyright>FuKaLuoSi's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/blackfufuya/blackfufuya.github.io/raw/main/AvSqemNDhwVGmO2.svg</url><title>avatar</title><link>https://blackfufuya.github.io</link></image><lastBuildDate>Fri, 27 Jun 2025 11:10:31 +0000</lastBuildDate><managingEditor>FuKaLuoSi's blog</managingEditor><ttl>60</ttl><webMaster>FuKaLuoSi's blog</webMaster><item><title>L11-2</title><link>https://blackfufuya.github.io/post/L11-2.html</link><description># 巡逻回收车 智能巡逻车
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>FuKaLuoSi's blog</title><link>https://blackfufuya.github.io</link><description>用于笔记</description><copyright>FuKaLuoSi's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/blackfufuya/blackfufuya.github.io/raw/main/AvSqemNDhwVGmO2.svg</url><title>avatar</title><link>https://blackfufuya.github.io</link></image><lastBuildDate>Sat, 30 Aug 2025 03:27:02 +0000</lastBuildDate><managingEditor>FuKaLuoSi's blog</managingEditor><ttl>60</ttl><webMaster>FuKaLuoSi's blog</webMaster><item><title>魔方教程</title><link>https://blackfufuya.github.io/post/mo-fang-jiao-cheng.html</link><description># 共七步
+
+## 做出白色小花
+
+&lt;a href='https://postimages.org/' target='_blank'&gt;&lt;img src='https://i.postimg.cc/DfHvQJQy/image.png' alt='image'/&gt;&lt;/a&gt;&lt;
+
+直接做即可
+
+##  做出底层十字
+
+### 一面一面对齐
+
+&lt;a href='https://postimages.org/' target='_blank'&gt;&lt;img src='https://i.postimg.cc/9QjcS6N6/1.png' alt='1'/&gt;&lt;/a&gt;&lt;br/&gt;
+
+### 旋转至上层
+
+&lt;a href='https://postimages.org/' target='_blank'&gt;&lt;img src='https://i.postimg.cc/zXhJxzpw/2.png' alt='2'/&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;
+
+&gt; 其他几面同理
+
+## 复原底面
+
+上左下右
+
+## 复原中层
+
+上左下右
+
+上右下左
+
+## 顶层十字
+
+顺 上钩下回
+
+## 顶面
+
+下回上回下回回上
+
+## 顶面凹字
+
+1. 眼睛向右
+2. 下辖顺顺下右上 顺顺下左下
+
+## 整个复原
+
+1. 复原面朝后
+2. 上回上钩 上钩上回 下回下下。</description><guid isPermaLink="true">https://blackfufuya.github.io/post/mo-fang-jiao-cheng.html</guid><pubDate>Sat, 30 Aug 2025 03:22:40 +0000</pubDate></item><item><title>L11-2</title><link>https://blackfufuya.github.io/post/L11-2.html</link><description># 巡逻回收车 智能巡逻车
 
 ## word list
 
