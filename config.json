@@ -2,6 +2,7 @@
     "title":"FuKaLuoSi's blog",
     "subTitle":"用于笔记",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "avatarUrl":"https://github.com/blackfufuya/blackfufuya.github.io/raw/main/AvSqemNDhwVGmO2.svg",
     "GMEEK_VERSION":"last"
 }
